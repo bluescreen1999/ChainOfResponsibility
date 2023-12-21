@@ -12,7 +12,6 @@ This is a sample implementation of the Chain of Responsibility design pattern in
 - [How it Works](#how-it-works)
 - [Usage](#usage)
 - [Example](#example)
-- [License](#license)
 
 ## Introduction
 
